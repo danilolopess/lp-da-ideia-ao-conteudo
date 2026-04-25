@@ -1,263 +1,263 @@
-# Resumo Visual da Landing Page
+# Visual Summary of the Landing Page
 
-## Projeto
+## Project
 
-Landing page para o evento **Da Ideia ao Conteúdo**, uma palestra/workshop voltado para empreendedores, pequenas empresas, criadores iniciantes e pessoas que desejam criar conteúdo com mais clareza, estratégia e autenticidade.
+Landing page for the event **From Idea to Content**, a lecture/workshop aimed at entrepreneurs, small businesses, beginner creators, and people who want to create content with more clarity, strategy, and authenticity.
 
-A página deve comunicar que o evento não é apenas uma palestra, mas uma experiência prática, acolhedora e transformadora para quem quer sair da dúvida e começar a produzir conteúdo com direção.
+The page should communicate that the event is not just a lecture, but a practical, welcoming, and transformative experience for those who want to leave confusion behind and start producing content with direction.
 
-## Conceito Visual Principal
+## Main Visual Concept
 
-O visual da landing page deve seguir uma estética **minimalista e editorial**, com muito espaço em branco, tipografia grande, composição elegante e identidade marcante.
+The landing page’s look should follow a **minimalist and editorial** aesthetic, with plenty of white space, large typography, elegant composition, and a distinctive identity.
 
-A sensação principal deve ser de uma marca contemporânea, humana e estratégica. A página precisa parecer refinada, mas acessível; criativa, mas organizada; inspiradora, mas objetiva.
+The main feeling should be of a contemporary, human, and strategic brand. The page needs to look refined yet accessible; creative yet organized; inspiring yet objective.
 
-O estilo deve lembrar uma revista digital ou editorial de marca: títulos amplos, textos curtos, blocos bem espaçados, imagens bem selecionadas e poucos elementos por seção.
+The style should remind one of a brand’s digital or editorial magazine: wide titles, short texts, well-spaced blocks, carefully selected images, and few elements per section.
 
-## Personalidade da Página
+## Page Personality
 
-A landing page deve transmitir:
+The landing page should convey:
 
-- Clareza
-- Proximidade
-- Inspiração
-- Profissionalismo
-- Criatividade
-- Acolhimento
-- Confiança
-- Movimento
+- Clarity  
+- Proximity  
+- Inspiration  
+- Professionalism  
+- Creativity  
+- Welcoming  
+- Trust  
+- Momentum  
 
-O tom visual precisa reforçar a ideia de que criar conteúdo pode ser mais simples quando existe método, intenção e direção.
+The visual tone must reinforce the idea that creating content can be simpler when there is method, intention, and direction.
 
-## Paleta de Cores
+## Color Palette
 
-A paleta do projeto deve ser quente, elegante e autoral, usando as cores já definidas no arquivo `project-data/color-pallet.md`.
+The project palette should be warm, elegant, and distinctive, using the colors already defined in `project-data/color-pallet.md`.
 
-### Cores principais
+### Main Colors
 
-- **Off-white** `#FCF7F8`: cor base da página. Deve dominar o fundo, criando leveza, respiro e aparência editorial.
-- **Vermelho terracota** `#A31621`: cor de autoridade e destaque principal. Deve aparecer em títulos-chave, botões, chamadas importantes e detalhes gráficos.
-- **Rosé** `#EB6F7A`: cor de apoio emocional. Deve ser usada em fundos suaves, etiquetas, detalhes e pontos de acolhimento.
-- **Mostarda claro** `#F4BE7C`: cor de iluminação e calor. Ideal para cards, pequenos blocos de destaque e marcações visuais.
-- **Mostarda intenso** `#E28413`: cor de energia e ação. Deve aparecer com moderação, principalmente em elementos de destaque secundário.
-- **Cinza azulado** `#9AA2AC`: cor auxiliar para textos de apoio, divisórias leves e informações secundárias.
-- **Preto** `#000000`: cor para textos principais, mantendo contraste e sofisticação.
+- **Off-white** `#FCF7F8`: the base color of the page. It should dominate the background, creating lightness, breathing room, and an editorial look.
+- **Terracotta red** `#A31621`: a color of authority and main emphasis. It should appear in key titles, buttons, important calls, and graphic details.
+- **Rosé** `#EB6F7A`: an emotional support color. Use it in soft backgrounds, labels, details, and welcoming touchpoints.
+- **Light mustard** `#F4BE7C`: a color of illumination and warmth. Ideal for cards, small highlight blocks, and visual markers.
+- **Intense mustard** `#E28413`: a color of energy and action. It should be used sparingly, mainly in secondary highlight elements.
+- **Bluish gray** `#9AA2AC`: an auxiliary color for supporting text, light dividers, and secondary information.
+- **Black** `#000000`: color for main text, maintaining contrast and sophistication.
 
-### Uso recomendado
+### Recommended Use
 
-O off-white deve ocupar a maior parte da interface. O terracota deve ser a cor mais forte da identidade. O rosé e o mostarda entram como acentos quentes, criando ritmo visual sem deixar a página carregada.
+Off-white should take up most of the interface. Terracotta should be the strongest color in the identity. Rosé and mustard should enter as warm accents, creating visual rhythm without making the page feel cluttered.
 
-A combinação ideal é: fundo claro, texto preto, botões terracota, detalhes rosé e pontos de energia em mostarda.
+The ideal combination is: light background, black text, terracotta buttons, rosé details, and small bursts of energy in mustard.
 
-## Tipografia e Ritmo
+## Typography and Rhythm
 
-A tipografia deve ser uma das protagonistas da página.
+Typography should be one of the page’s main characters.
 
-Os títulos devem ser grandes, com presença editorial e boa hierarquia. O hero pode usar uma chamada em tamanho muito grande, ocupando boa parte da dobra inicial.
+Titles should be large, with an editorial presence and strong hierarchy. The hero can use a very large headline, occupying a good portion of the initial fold.
 
-Os textos devem ser curtos, diretos e bem espaçados. A página não deve parecer um texto corrido; cada seção precisa ter poucas ideias, bem organizadas.
+The texts should be short, direct, and well spaced. The page should not look like a continuous block of text; each section should have few ideas, well organized.
 
-### Direção tipográfica
+### Typographic Direction
 
-- Títulos grandes e expressivos.
-- Subtítulos com tom humano e explicativo.
-- Parágrafos curtos, com largura controlada.
-- Palavras-chave em destaque visual.
-- Hierarquia clara entre título, apoio e chamada para ação.
+- Large, expressive titles.
+- Subtitles with a human, explanatory tone.
+- Short paragraphs with controlled line width.
+- Visually highlighted keywords.
+- Clear hierarchy between title, support text, and call to action.
 
-Caso as fontes `CenturyGothic.woff` e `CenturyGothic.woff2` sejam usadas no projeto, elas podem reforçar uma estética limpa, geométrica e contemporânea.
+If fonts `CenturyGothic.woff` and `CenturyGothic.woff2` are used in the project, they can strengthen a clean, geometric, contemporary aesthetic.
 
-## Layout Geral
+## Overall Layout
 
-O layout deve ser espaçoso, com margens amplas e poucos elementos por bloco.
+The layout should be spacious, with wide margins and few elements per block.
 
-A página deve evitar excesso de cards, sombras pesadas, gradientes chamativos ou aparência genérica de página de infoproduto. A experiência precisa ser mais editorial, calma e premium.
+The page should avoid an excess of cards, heavy shadows, flashy gradients, or a generic infoproduct page look. The experience should feel more editorial, calm, and premium.
 
-### Características do layout
+### Layout Characteristics
 
-- Muito espaço em branco.
-- Seções bem separadas.
-- Blocos assimétricos pontuais para dar personalidade.
-- Títulos grandes alinhados à esquerda.
-- Cards simples, com bordas discretas ou fundos suaves.
-- CTAs visíveis, mas elegantes.
-- Uso de símbolos como elementos gráficos de apoio.
+- Lots of white space.
+- Clearly separated sections.
+- Occasional asymmetric blocks to add personality.
+- Large titles aligned to the left.
+- Simple cards, with discreet borders or soft backgrounds.
+- CTAs visible but elegant.
+- Use of symbols as supportive graphic elements.
 
-## Estrutura Visual Sugerida
+## Suggested Visual Structure
 
 ### 1. Hero
 
-O hero deve abrir com impacto tipográfico.
+The hero should open with typographic impact.
 
-Sugestão de direção:
+Suggested direction:
 
-- Fundo off-white.
-- Título grande com a frase central do evento.
-- Destaque em terracota para palavras como "ideia", "conteúdo", "clareza" ou "direção".
-- Subtítulo curto explicando que é uma palestra/workshop para criar conteúdo com estratégia.
-- Botão principal em terracota.
-- Símbolo da marca em baixa opacidade ou como detalhe lateral.
+- Off-white background.
+- Large title with the event’s central phrase.
+- Terracotta highlight for words like “idea,” “content,” “clarity,” or “direction.”
+- Short subtitle explaining that it’s a lecture/workshop to create content with strategy.
+- Main button in terracotta.
+- Brand symbol in low opacity or as a side detail.
 
-A primeira dobra precisa comunicar rapidamente: para quem é, qual transformação oferece e qual ação o visitante deve tomar.
+The first fold must quickly communicate: who it’s for, what transformation it offers, and what action the visitor should take.
 
-### 2. Sobre o Evento
+### 2. About the Event
 
-Seção leve e editorial, com texto curto explicando o propósito do **Da Ideia ao Conteúdo**.
+A light, editorial section, with short text explaining the purpose of **From Idea to Content**.
 
-Visual recomendado:
+Recommended visual:
 
-- Coluna de texto com largura confortável.
-- Frase de impacto em destaque.
-- Pequeno bloco rosé ou mostarda para reforçar a ideia de experiência prática e acolhedora.
+- A text column with comfortable width.
+- An impactful phrase in highlight.
+- A small rosé or mustard block to reinforce the idea of a practical, welcoming experience.
 
-### 3. O Que Você Vai Aprender
+### 3. What You Will Learn
 
-Esta seção deve mostrar os aprendizados de forma simples e escaneável.
+This section should present learnings simply and with easy scanning.
 
-Conteúdos principais:
+Main contents:
 
-- Criação de conteúdo com mais direção.
-- Estratégia para redes sociais.
-- Comunicação autêntica.
-- Transformação de ideias em roteiros.
-- Uso de aplicativos e ferramentas de apoio.
-- Inteligência artificial como suporte criativo.
+- Creating content with more direction.
+- Strategy for social media.
+- Authentic communication.
+- Transforming ideas into scripts.
+- Using apps and supporting tools.
+- Artificial intelligence as a creative support.
 
-Visual recomendado:
+Recommended visual:
 
-- Lista em blocos minimalistas.
-- Cards com fundo off-white ou rosé muito suave.
-- Destaques em terracota e mostarda.
-- Pouco texto por item.
+- A list in minimalist blocks.
+- Cards with an off-white background or very soft rosé.
+- Terracotta and mustard highlights.
+- Little text per item.
 
-### 4. Para Quem É
+### 4. Who It’s For
 
-Seção importante para conectar com os dois públicos principais:
+An important section to connect with the two main audiences:
 
-- Pequenas empresas, marcas, lojas e negócios locais.
-- Pessoas que querem começar a criar conteúdo, mas ainda travam ou não sabem por onde começar.
+- Small businesses, brands, shops, and local enterprises.
+- People who want to start creating content but are still stuck or don’t know where to begin.
 
-Visual recomendado:
+Recommended visual:
 
-- Dois blocos lado a lado no desktop.
-- Um bloco para pequenas empresas e outro para criadores iniciantes.
-- Fundo claro, borda fina e título forte.
-- No mobile, os blocos devem empilhar com bastante respiro.
+- Two side-by-side blocks on desktop.
+- One block for small businesses and another for beginner creators.
+- Light background, thin border, strong title.
+- On mobile, the blocks should stack with plenty of breathing room.
 
-### 5. Experiência do Evento
+### 5. Event Experience
 
-Esta seção deve mostrar que o evento tem uma jornada, não apenas uma fala expositiva.
+This section should show that the event has a journey, not just an expository talk.
 
-Etapas sugeridas:
+Suggested stages:
 
-- Recepção acolhedora.
-- Palestra sobre construção de marca e criação de conteúdo.
-- Pausa para café e networking.
-- Aula prática.
-- Encerramento com próximos passos.
+- Welcoming reception.
+- Talk about brand building and content creation.
+- Coffee break and networking.
+- Practical class.
+- Closing with next steps.
 
-Visual recomendado:
+Recommended visual:
 
-- Linha do tempo simples.
-- Numeração grande em terracota ou mostarda.
-- Textos curtos.
-- Uso pontual de símbolos ou divisórias orgânicas.
+- Simple timeline.
+- Large numbering in terracotta or mustard.
+- Short texts.
+- Occasional use of symbols or organic dividers.
 
-### 6. Benefícios de Participar
+### 6. Benefits of Participating
 
-A seção deve destacar a transformação prometida.
+The section should highlight the transformation being promised.
 
-Benefícios principais:
+Main benefits:
 
-- Organizar melhor as ideias.
-- Entender o que comunicar.
-- Criar conteúdo com intenção.
-- Ter mais segurança para gravar.
-- Produzir com mais clareza e qualidade.
-- Usar as redes sociais de forma mais estratégica.
+- Organize ideas better.
+- Understand what to communicate.
+- Create content with intention.
+- Feel more confidence to record.
+- Produce with more clarity and quality.
+- Use social media in a more strategic way.
 
-Visual recomendado:
+Recommended visual:
 
-- Bloco com fundo terracota ou rosé, contrastando com as seções claras.
-- Texto em off-white se o fundo for escuro.
-- Chamada curta e emocional.
+- A block with terracotta or rosé background, contrasting with the light sections.
+- Off-white text if the background is darker.
+- Short, emotional call.
 
-### 7. Chamada Final Para Inscrição
+### 7. Final Call to Register
 
-A última seção deve ser direta, convidativa e elegante.
+The last section should be direct, inviting, and elegant.
 
-Visual recomendado:
+Recommended visual:
 
-- Fundo off-white ou terracota.
-- Título grande reforçando a transformação: sair da ideia e chegar ao conteúdo com direção.
-- Subtexto curto.
-- Botão principal claro e objetivo.
-- Poucos elementos ao redor para manter foco na ação.
+- Off-white or terracotta background.
+- Large title reinforcing the transformation: move from idea to content with direction.
+- Short subtext.
+- Clear, objective main button.
+- Few elements around it to keep focus on the action.
 
-## Uso dos Símbolos
+## Use of Symbols
 
-Os símbolos disponíveis em `simbolos-svg/` devem ser usados como elementos de identidade, não como decoração excessiva.
+The symbols available in `simbolos-svg/` should be used as identity elements, not as excessive decoration.
 
-Aplicações recomendadas:
+Recommended applications:
 
-- Marca d'água em baixa opacidade no hero.
-- Detalhe gráfico entre seções.
-- Ícone abstrato em cards ou chamadas.
-- Elemento de fundo em áreas rosé ou mostarda.
+- Watermark in low opacity in the hero.
+- Graphic detail between sections.
+- Abstract icon in cards or calls.
+- Background element in rosé or mustard areas.
 
-O símbolo deve aparecer de forma sutil, reforçando personalidade sem competir com a tipografia.
+The symbol should appear subtly, reinforcing personality without competing with the typography.
 
-## Direção de Imagens
+## Image Direction
 
-As imagens devem parecer naturais, humanas e conectadas à rotina de criação de conteúdo.
+Images should feel natural, human, and connected to the routine of creating content.
 
-Tipos de imagem recomendados:
+Recommended image types:
 
-- Pessoa escrevendo ideias em caderno.
-- Celular gravando conteúdo.
-- Bastidores de criação.
-- Mesa com café, caderno e materiais do evento.
-- Pequenos negócios ou marcas em contexto real.
-- Expressões naturais, sem poses excessivamente corporativas.
+- A person writing ideas in a notebook.
+- A cell phone recording content.
+- Behind-the-scenes of creation.
+- A table with coffee, notebooks, and event materials.
+- Small businesses or brands in real-life context.
+- Natural expressions, without overly corporate posing.
 
-O tratamento visual deve ser quente, suave e editorial. Evitar imagens frias, muito tecnológicas ou genéricas de banco de imagem.
+The visual treatment should be warm, soft, and editorial. Avoid cold, overly technological, or generic stock images.
 
-## Abordagens Visuais Possíveis
+## Possible Visual Approaches
 
-### Opção 1: Editorial Quente
+### Option 1: Warm Editorial
 
-Direção recomendada.
+Recommended direction.
 
-Combina fundo off-white, tipografia grande, vermelho terracota como destaque principal e detalhes rosé/mostarda. É a opção mais alinhada ao pedido de uma página minimalista, elegante e com identidade definida.
+Uses off-white background, large typography, terracotta red as the main emphasis, and rosé/mustard details. It’s the option most aligned with the request for a minimalist, elegant landing page with a defined identity.
 
-### Opção 2: Criativa e Afetiva
+### Option 2: Creative and Affectionate
 
-Usa mais rosé e mostarda, criando uma sensação mais leve, jovem e acolhedora. Funciona bem para aproximar o público iniciante, mas pode perder um pouco da sofisticação se houver excesso de cores.
+Uses more rosé and mustard, creating a lighter, younger, more welcoming feel. Works well for connecting with beginner audiences, but may lose some sophistication if there’s too much color.
 
-### Opção 3: Estratégica e Premium
+### Option 3: Strategic and Premium
 
-Usa mais preto, off-white e terracota, com menos cores de apoio. Transmite mais autoridade e profissionalismo, mas pode ficar séria demais para a proposta acolhedora do evento.
+Uses more black, off-white, and terracotta, with fewer supporting colors. Conveys more authority and professionalism, but may become too serious for the event’s welcoming proposal.
 
-## Recomendação Final
+## Final Recommendation
 
-A melhor direção para a landing page é a **Opção 1: Editorial Quente**.
+The best direction for the landing page is **Option 1: Warm Editorial**.
 
-Ela equilibra profissionalismo, acolhimento e criatividade. O visual deve ter base clara, títulos grandes, ritmo calmo, detalhes gráficos sutis e uma paleta quente que torne a marca memorável.
+It balances professionalism, welcoming tone, and creativity. The visual should have a clear foundation, large titles, a calm rhythm, subtle graphic details, and a warm palette that makes the brand memorable.
 
-A página deve parecer uma experiência cuidadosamente construída: simples de entender, bonita de navegar e capaz de fazer o visitante sentir que criar conteúdo com estratégia está ao seu alcance.
+The page should feel like a carefully crafted experience: easy to understand, pleasant to navigate, and capable of making visitors feel that creating content with strategy is within their reach.
 
-## O Que Evitar
+## What to Avoid
 
-- Visual carregado ou com muitos elementos competindo.
-- Estética genérica de infoproduto.
-- Gradientes chamativos sem necessidade.
-- Excesso de cards e ícones.
-- Blocos muito apertados.
-- Cores fortes usadas ao mesmo tempo em grandes áreas.
-- Linguagem visual muito corporativa ou fria.
-- Textos longos sem respiro.
-- Imagens artificiais ou muito posadas.
+- A cluttered visual with too many competing elements.
+- A generic infoproduct aesthetic.
+- Flashy gradients when unnecessary.
+- Too many cards and icons.
+- Blocks that are too tight.
+- Strong colors used all at once over large areas.
+- Visual language that is overly corporate or cold.
+- Long texts without breathing room.
+- Artificial or overly posed images.
 
-## Resumo em Uma Frase
+## One-Line Summary
 
-A landing page deve parecer uma revista digital quente e elegante para um evento de criação de conteúdo: clara, espaçosa, autoral, acolhedora e estratégica.
+The landing page should feel like a warm, elegant digital magazine for a content creation event: clear, spacious, distinctive, welcoming, and strategic.
